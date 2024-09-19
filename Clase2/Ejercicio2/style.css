@@ -1,0 +1,17 @@
+.cuerpo{
+    text-align: center;
+    background-image: url(fondo.jpg);
+    background-size: contain;
+}
+.tabla{
+    display: flex;
+    justify-content: center;
+}
+footer{
+    text-align: center;
+    font-size: 10px;
+    font-family: "Georgia", serif;
+    font-weight: normal;
+    background-image: url(fondo.png);
+    font-weight: bold;
+}
